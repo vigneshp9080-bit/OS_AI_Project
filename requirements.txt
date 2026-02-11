@@ -1,0 +1,11 @@
+streamlit
+psutil
+pandas
+numpy
+scikit-learn
+requests
+streamlit-autorefresh
+pymongo
+flask
+pydantic
+plotly
